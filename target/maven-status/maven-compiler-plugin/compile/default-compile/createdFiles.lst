@@ -1,0 +1,11 @@
+PageObjects\ProductPage.class
+Practice\AppiumFramework\TestData.class
+PageObjects\HomePage.class
+PageObjects\FormPage.class
+Practice\AppiumFramework\Utilities.class
+Practice\AppiumFramework\Base.class
+PageObjects\CheckoutPage.class
+PageObjects\Dependencies.class
+PageObjects\Preferences.class
+Practice\AppiumFramework\App.class
+resources\Listners.class

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28027" started-at="2020-06-02T18:43:34 BST" finished-at="2020-06-02T18:44:02 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28027" started-at="2020-06-02T18:43:34 BST" finished-at="2020-06-02T18:44:02 BST">
+      <class name="Practice.AppiumFramework.Ecommece_TC_7">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Practice.AppiumFramework.Ecommece_TC_7@eafc191]" name="killAllNodes" is-config="true" duration-ms="11" started-at="2020-06-02T18:43:34 BST" finished-at="2020-06-02T18:43:34 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:Practice.AppiumFramework.Ecommece_TC_7@eafc191]" name="totalValidation" duration-ms="27970" started-at="2020-06-02T18:43:34 BST" finished-at="2020-06-02T18:44:02 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- Practice.AppiumFramework.Ecommece_TC_7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
